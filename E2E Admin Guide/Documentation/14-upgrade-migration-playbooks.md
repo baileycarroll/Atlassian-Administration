@@ -1,6 +1,6 @@
 ---
 
-```
+
 title: Upgrade & Migration Playbooks
 product: Jira Data Center
 version_target: "10.x"
@@ -11,7 +11,6 @@ change_ref: [Change/Ticket ID]
 compliance_context: [N/A]
 tags: [admin-guide, jira, upgrades, migrations, blue-green, canary]
 ---
-```
 
 # Version Control Notes
 
